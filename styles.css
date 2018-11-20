@@ -75,13 +75,14 @@ background-image: url("images/city-scape.svg");
   width:1000px;
   height: 40px;
   padding-left: 10px;
-  background-color: transparent;
-  border-color: blue;
+  background-color: rgb(31, 82, 111);
+  border:1px;
+  color:white;
 }
 
 #btn-search{
   width:50px;
-  height:50px;
+  height:100px;
 }
 
 
@@ -107,4 +108,101 @@ background-image: url("images/city-scape.svg");
   height: 50px;
 }
 
+#first{
+  background-color: rgb(39, 53, 71);
+  color:white;
+  height:400px;
+}
 
+#collaboration{
+width:400px;
+float:left;
+padding-left:430px;
+padding-top: 70px;
+padding-right:20px;
+}
+
+#title-first{
+font-size: 24px;
+padding-top: 70px;
+}
+
+#list-first{
+width:550px;
+float:right;
+}
+
+#list-first li{
+  margin-top:4px;
+}
+
+#button-first{
+  background-color:rgb(203, 56, 55);
+  border-radius: 20px;
+  padding:8px;
+  margin-top:10px;
+  float:left;
+}
+
+#learn-more{
+  float:left;
+  padding-top:10px;
+  width:500px;
+}
+
+#second{
+  background-image: url("images/forklift.svg");
+  background-size: cover;
+  height:400px;
+}
+
+#button-second{
+  background-color:rgb(49, 68, 88);
+  border-radius: 20px;
+  padding:12px;
+  margin-top:10px;
+  float:left;
+
+}
+
+#second-content{
+  float:left;
+  padding-top:100px;
+  padding-left:150px;
+  color:white;
+}
+
+#third{
+  height:500px;
+  margin: 0 auto
+}
+
+#third-tittle{
+
+}
+
+#third-content{
+  margin: 0 auto
+
+}
+
+#third-tittle{
+  text-align: center;
+  padding-top:35px;
+  padding-bottom: 20px;
+}
+#find{
+  margin: 0 auto;
+}
+
+#discover{
+  margin: 0 auto
+}
+
+#find, #discover, #build{
+  padding:0px;
+  float:left;
+  Width: 32%;
+  text-align: center;
+
+}
